@@ -7,7 +7,7 @@ utility used to import data from excel into db, like mysql, etc.
 Usage
 ========
 
-excel2db <verb>
+    excel2db <verb>
 
 ```sh
 Verb: 

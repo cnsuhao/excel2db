@@ -2,6 +2,8 @@ package com.sltalk.excel2db;
 
 /**
  * Created by dot on 3/4/14.
+ *
+ * Define variables.
  */
 public class InfoBundle {
     static public final String MajorVersion = "1";

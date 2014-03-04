@@ -7,7 +7,7 @@ utility used to import data from excel into db, like mysql, etc.
 Usage
 ========
 
-excel2db <verb>
+'excel2db <verb>
 
 Verb: 
 -help                      Show help information
@@ -16,4 +16,4 @@ Verb:
                            -source excel file to export
                            -dest where sql file is stored
                            -heuristic used only with -createSchema, go through all rows to find the most suitable data type
--run -config<config file>  export data of excel files to database, according to config file
+-run -config<config file>  export data of excel files to database, according to config file'

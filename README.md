@@ -17,5 +17,5 @@ Verb:
 
     -createSchema -config<config file> Create schema file according to format of excel files, according to config file
 
-    -run -config<config file>  Export data of excel files to database, according to config file
+    -export -config<config file>  Export data of excel files to database, according to config file
 ```
